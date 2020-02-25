@@ -50,7 +50,7 @@ const getSurroundingCells = (grid: CellType[][], cell: CellType) => {
   }
 
   //top right cell
-  // since size of grid is 100 always, safe to hardcode 100 for this case
+  // since size of grid is 100 always, safe to hardcode 100 for this case and others
   if (cellColumn + 1 < 100 && cellRow - 1 >= 0) {
     surroundingCells.push(grid[cellRow - 1][cellColumn + 1]);
   }

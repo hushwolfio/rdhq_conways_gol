@@ -26,6 +26,7 @@ const GameView = ({ setGameState, gamePlaying }: Props) => (
     <StyledTitle>Conway's Game of Life Code Challenge</StyledTitle>
     <GridContainer setGameState={setGameState} gamePlaying={gamePlaying} />
     <StyledDescription>Green = Alive, Black = Dead</StyledDescription>
+    <StyledDescription>Feel free to refresh the page to get different random setup before starting!</StyledDescription>
     <Button onClick={setGameState}>{gamePlaying ? 'Stop' : 'Start'}</Button>
   </StyledGame>
 );

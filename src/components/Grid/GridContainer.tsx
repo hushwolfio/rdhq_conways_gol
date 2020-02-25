@@ -53,7 +53,7 @@ const GridContainer = ({ setGameState, gamePlaying }: Props) => {
             return cell;
           }
 
-          if (cell.alive && (surroundinglivingCells < 2 || surroundinglivingCells >= 4)) {
+          if (cell.alive && (surroundinglivingCells < 2 || surroundinglivingCells > 3)) {
             validLifeCycle = true;
             return { ...cell, alive: 0 };
           }
