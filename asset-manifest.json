@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rdhq_conways_gol/static/css/main.69eda509.chunk.css",
-    "main.js": "/rdhq_conways_gol/static/js/main.43d24668.chunk.js",
-    "main.js.map": "/rdhq_conways_gol/static/js/main.43d24668.chunk.js.map",
+    "main.js": "/rdhq_conways_gol/static/js/main.52b30276.chunk.js",
+    "main.js.map": "/rdhq_conways_gol/static/js/main.52b30276.chunk.js.map",
     "runtime-main.js": "/rdhq_conways_gol/static/js/runtime-main.1c7d91a5.js",
     "runtime-main.js.map": "/rdhq_conways_gol/static/js/runtime-main.1c7d91a5.js.map",
     "static/js/2.af35c9d9.chunk.js": "/rdhq_conways_gol/static/js/2.af35c9d9.chunk.js",
     "static/js/2.af35c9d9.chunk.js.map": "/rdhq_conways_gol/static/js/2.af35c9d9.chunk.js.map",
     "index.html": "/rdhq_conways_gol/index.html",
-    "precache-manifest.2d55e16207a5b4f0a615dfeda8ca4ef3.js": "/rdhq_conways_gol/precache-manifest.2d55e16207a5b4f0a615dfeda8ca4ef3.js",
+    "precache-manifest.41a13fd7257f4b36c3fecb3e9f7bdb9b.js": "/rdhq_conways_gol/precache-manifest.41a13fd7257f4b36c3fecb3e9f7bdb9b.js",
     "service-worker.js": "/rdhq_conways_gol/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/rdhq_conways_gol/static/css/main.69eda509.chunk.css.map",
     "static/js/2.af35c9d9.chunk.js.LICENSE.txt": "/rdhq_conways_gol/static/js/2.af35c9d9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1c7d91a5.js",
     "static/js/2.af35c9d9.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.43d24668.chunk.js"
+    "static/js/main.52b30276.chunk.js"
   ]
 }

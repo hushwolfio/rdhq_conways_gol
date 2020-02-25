@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rdhq_conways_gol/precache-manifest.2d55e16207a5b4f0a615dfeda8ca4ef3.js"
+  "/rdhq_conways_gol/precache-manifest.41a13fd7257f4b36c3fecb3e9f7bdb9b.js"
 );
 
 self.addEventListener('message', (event) => {
